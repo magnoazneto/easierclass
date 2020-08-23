@@ -1,7 +1,7 @@
 # EasierClass
 
 ## Descrição
-O EasierClass é aplicativo de auxílio à ministração de disciplinas no regime EAD, Semi-presencial ou remotas onde professor e alunos podem se comunicar entre si, elaborar e responder atividades, além de estimular o engajamento por parte dos alunos através de técnicas de gamificação baseadas em experiência de usuário.
+O EasierClass é um aplicativo de auxílio à ministração de disciplinas no regime EAD, semi-presencial ou remotas onde professor e alunos podem se comunicar entre si, elaborar e responder atividades, além de estimular o engajamento por parte dos alunos através de técnicas de gamificação baseadas em experiência de usuário.
 
 ## Público alvo
 Alunos e professores usuários de plataformas para aulas a distância.
@@ -11,6 +11,7 @@ Aumentar o engajamento em aulas online, através de um sistema de notificações
 
 ## Funcionalidades básicas que o projeto deve contemplar
 - Feed de atividades;
+- Criação de salas para agrupamento de estudantes;
 - Lembretes em formas de notificações personalizadas;
 - Criação de atividades por parte dos professores;
 - Possibilidade de anexar resposta por parte dos alunos;
