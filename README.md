@@ -18,4 +18,7 @@ Aumentar o engajamento em aulas online, através de um sistema de notificações
 - Ranking comparativo de desempenho dos estudantes baseado na pontuação do app;
 - Alocação de títulos baseados no uso de funcionalidades do app de determinadas formas (achievements);
 
+## Casos de uso
+![Casos de uso](https://magnoazneto.github.com/easierclass/files/EasierClass_UseCases.png)
+
 
