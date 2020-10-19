@@ -51,4 +51,30 @@ Até o dia 06/09/2020 dois atores foram identificados para o sistema, sendo eles
 6. Se inscrever em salas criadas por professores:
     O aluno deve ser capaz de, com um link ou código de acesso fornecido pelo professor, entrar nas salas criadas para participar das atividades daquela turma.
 
+## Telas de protótipo
+
+# Login
+![Login](https://github.com/magnoazneto/easierclass/blob/master/files/EasierClass_login.jpeg)
+
+# Calendario
+![Calendario](https://github.com/magnoazneto/easierclass/blob/master/files/EasierClass_Calendario.jpeg)
+
+# Nova postagem
+![Nova Postagem](https://github.com/magnoazneto/easierclass/blob/master/files/EasierClass_nova_postagem.jpeg)
+
+# Post
+![Post](https://github.com/magnoazneto/easierclass/blob/master/files/EasierClass_post.jpeg)
+
+# Salas - visão professor
+![Visão Professor](https://github.com/magnoazneto/easierclass/blob/master/files/EasierClass_prof_salas.jpeg)
+
+# Salas - visão aluno
+![Visão Aluno](https://github.com/magnoazneto/easierclass/blob/master/files/EasierClass_alunos_salas.jpeg)
+
+# Timeline Aluno
+![Timeline Aluno](https://github.com/magnoazneto/easierclass/blob/master/files/EasierClass_timeline.jpeg)
+
+# Timeline Professor
+![Timeline Professor](https://github.com/magnoazneto/easierclass/blob/master/files/EasierClass_timeline.jpeg)
+
 
