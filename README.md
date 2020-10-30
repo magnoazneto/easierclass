@@ -3,11 +3,25 @@
 ## Descrição
 O EasierClass é um aplicativo de auxílio à ministração de disciplinas no regime EAD, semi-presencial ou remotas onde professor e alunos podem se comunicar entre si, elaborar e responder atividades, além de estimular o engajamento por parte dos alunos através de técnicas de gamificação baseadas em experiência de usuário.
 
-## Público alvo
-Alunos e professores usuários de plataformas para aulas a distância.
+## Justificativa
+O engajamento de alunos na modalidade EAD nem sempre é algo plenamente mensurável, e ferramentas que auxiliem nessa proposta tendem a ajudar cada vez mais a educação. Com o aumento do número de casos onde aulas presicam ser transmitidas de forma remota ou semi-presencial, faz-se necessária uma aplicação capaz de trazer uma solução moderna, de fácil utilização e que consiga aumentar engajamento dos usuários, melhorando o resultado geral de um processo de aprendizado.
 
-## Problema a ser resolvido
-Aumentar o engajamento em aulas online, através de um sistema de notificações inteligentes, interação com outros alunos e gamificação da plataforma.
+## Fundamentação teórica
+Formas inovadores de ensinar têm sido discutidas a partir da popularização das tecnologias, capazes de proporcionar flexibilidade relativas ao tempo e ao formato desses métodos de ensino. A aprendizagem de qualidade constitui um desafio, sendo que a motivação e o engajamento dos alunos são tópicos que merecem atenção. O relacionamento entre gamificação e engajamento tem sido um tópico constantemente pesquisado. 
+O engajamento em nível superficial através da gamificação pode ser alcançado através de vídeos bem humorados, recompensas e rankings, mas com o planejamento ideal e uma boa forma de apresentar isso ao usuário, o engajamento pode ser sustentado a longo prazo, até que se torne um hábito fazer as atividades que contribuam para o desenvolvimento educacional do aluno. Diversos estudos mostram que o nível de engajamento da modalidade EAD ainda é baixo (https://viddia.com.br/gamificacao-engajamento-ead/).
+
+## Objetivos Gerais
+O trabalho tem como principal objetivo fornecer uma plataforma de fácil uso e que estimule os alunos e professores a utilizá-la através de conteúdos gamificados.
+
+## Objetivos Específicos
+O trabalho tem como objetivos específicos a criação de uma plataforma de estudos, utilizando a metodologia de gamificação do usuário, para facilitar a aprendizagem e a interação professor-aluno.
+
+## Metodologia de execução
+O projeto deve executar de forma linear e intuitiva, o usuário seja professor ou aluno deve realizar um login no sistema - caso tenha já realizado o cadastro - informando nome do usuário e senha.Logo após essa ação, o mesmo será redirecionado para uma aba de escolha da sala na qual deseja ver as postagem, se for um professor será capaz de cadastrar novas salas , e se for um aluno será capaz de entrar em uma sala.
+Dentro da sala escolhida as funções serão especificas para cada tipo de usuário, ao professor será dada as ações: cadastrar atividade, cadastrar assunto e ver desempenho da sala. Ao aluno, será possível , responder as questões postadas por um professor e ver seu rendimento na matéria. Ambos terão funções idênticas de ver o calendário com as atividades para cada dia, fazer postagens com ou sem anexos e ver suas conquistas pessoais.
+
+## Resultados Esperados e Disseminação dos Resultados
+Com esse projeto, espera-se desenvolver uma plataforma intuitiva e com boas ferramentas de gamificação para aumentar o engajamento de modalidades remotas de aprendizado. A plataforma poderá ser utilizada por faculdades, escolas ou qualquer instituição de ensino que necessite de uma comunicação aluno-professor em modalidade de turmas.
 
 ## Funcionalidades básicas que o projeto deve contemplar
 - Feed de atividades;
