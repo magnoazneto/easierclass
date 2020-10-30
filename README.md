@@ -8,7 +8,7 @@ O engajamento de alunos na modalidade EAD nem sempre é algo plenamente mensurá
 
 ## Fundamentação teórica
 Formas inovadores de ensinar têm sido discutidas a partir da popularização das tecnologias, capazes de proporcionar flexibilidade relativas ao tempo e ao formato desses métodos de ensino. A aprendizagem de qualidade constitui um desafio, sendo que a motivação e o engajamento dos alunos são tópicos que merecem atenção. O relacionamento entre gamificação e engajamento tem sido um tópico constantemente pesquisado. 
-O engajamento em nível superficial através da gamificação pode ser alcançado através de vídeos bem humorados, recompensas e rankings, mas com o planejamento ideal e uma boa forma de apresentar isso ao usuário, o engajamento pode ser sustentado a longo prazo, até que se torne um hábito fazer as atividades que contribuam para o desenvolvimento educacional do aluno. Diversos estudos mostram que o nível de engajamento da modalidade EAD ainda é baixo (https://viddia.com.br/gamificacao-engajamento-ead/).
+O engajamento em nível superficial através da gamificação pode ser alcançado através de vídeos bem humorados, recompensas e rankings, mas com o planejamento ideal e uma boa forma de apresentar isso ao usuário, o engajamento pode ser sustentado a longo prazo, até que se torne um hábito fazer as atividades que contribuam para o desenvolvimento educacional do aluno. Diversos estudos mostram que o nível de engajamento da modalidade EAD ainda é baixo.
 
 ## Objetivos Gerais
 O trabalho tem como principal objetivo fornecer uma plataforma de fácil uso e que estimule os alunos e professores a utilizá-la através de conteúdos gamificados.
@@ -17,8 +17,7 @@ O trabalho tem como principal objetivo fornecer uma plataforma de fácil uso e q
 O trabalho tem como objetivos específicos a criação de uma plataforma de estudos, utilizando a metodologia de gamificação do usuário, para facilitar a aprendizagem e a interação professor-aluno.
 
 ## Metodologia de execução
-O projeto deve executar de forma linear e intuitiva, o usuário seja professor ou aluno deve realizar um login no sistema - caso tenha já realizado o cadastro - informando nome do usuário e senha.Logo após essa ação, o mesmo será redirecionado para uma aba de escolha da sala na qual deseja ver as postagem, se for um professor será capaz de cadastrar novas salas , e se for um aluno será capaz de entrar em uma sala.
-Dentro da sala escolhida as funções serão especificas para cada tipo de usuário, ao professor será dada as ações: cadastrar atividade, cadastrar assunto e ver desempenho da sala. Ao aluno, será possível , responder as questões postadas por um professor e ver seu rendimento na matéria. Ambos terão funções idênticas de ver o calendário com as atividades para cada dia, fazer postagens com ou sem anexos e ver suas conquistas pessoais.
+O projeto deve executar de forma linear e intuitiva, o usuário seja professor ou aluno deve realizar um login no sistema - caso tenha já realizado o cadastro - informando nome do usuário e senha.Logo após essa ação, o mesmo será redirecionado para uma aba de escolha da sala na qual deseja ver as postagem, se for um professor será capaz de cadastrar novas salas , e se for um aluno será capaz de entrar em uma sala. Dentro da sala escolhida as funções serão especificas para cada tipo de usuário, ao professor será dada as ações: cadastrar atividade, cadastrar assunto e ver desempenho da sala. Ao aluno, será possível , responder as questões postadas por um professor e ver seu rendimento na matéria. Ambos terão funções idênticas de ver o calendário com as atividades para cada dia, fazer postagens com ou sem anexos e ver suas conquistas pessoais.
 
 ## Resultados Esperados e Disseminação dos Resultados
 Com esse projeto, espera-se desenvolver uma plataforma intuitiva e com boas ferramentas de gamificação para aumentar o engajamento de modalidades remotas de aprendizado. A plataforma poderá ser utilizada por faculdades, escolas ou qualquer instituição de ensino que necessite de uma comunicação aluno-professor em modalidade de turmas.
@@ -91,4 +90,13 @@ Até o dia 06/09/2020 dois atores foram identificados para o sistema, sendo eles
 # Timeline Professor
 ![Timeline Professor](https://github.com/magnoazneto/easierclass/blob/master/files/EasierClass_timeline.jpeg)
 
+## Referências
+- FREIRE, C. D. C. (2015). Gamificaçao e ead: Importância e possibilidades para uma educaçao com foco no aluno. Trabalho de Final de Curso. Instituto de Matemática e Estatıstica. LANTE–Laboratório de Novas Tecnologias de Ensino. Universidade Federal Fluminense (RJ).
 
+- Sanches, L. R. J., Dos Santos, A. C., & Hardagh, C. C. (2018). A GAMIFICAÇÃO COMO FERRAMENTA NA CRIAÇÃO DE OBJETOS DE APRENDIZAGEM EAD. CIET: EnPED.
+
+- http://www.scielo.mec.pt/scielo.php?script=sci_arttext&pid=S2182-13722019000200003&lang=pt
+
+- https://blog.elos.vc/7-dicas-para-engajar-seus-alunos-atraves-da-gamificacao/amp/
+
+- https://viddia.com.br/gamificacao-engajamento-ead/
