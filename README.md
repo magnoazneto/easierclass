@@ -32,7 +32,7 @@ Com esse projeto, espera-se desenvolver uma plataforma intuitiva e com boas ferr
 - Alocação de títulos baseados no uso de funcionalidades do app de determinadas formas (achievements);
 
 ## Casos de uso
-![Casos de uso](https://github.com/magnoazneto/easierclass/blob/master/files/EasierClass_UseCases.png)
+![Casos de uso](https://github.com/magnoazneto/easierclass/blob/master/.docs/EasierClass_UseCases.png)
 
 Até o dia 06/09/2020 dois atores foram identificados para o sistema, sendo eles Professor e Aluno. Para cada ator foram identificados os casos de uso listados abaixo:
 
@@ -67,28 +67,28 @@ Até o dia 06/09/2020 dois atores foram identificados para o sistema, sendo eles
 ## Telas de protótipo
 
 # Login
-![Login](https://github.com/magnoazneto/easierclass/blob/master/files/EasierClass_login.jpeg)
+![Login](https://github.com/magnoazneto/easierclass/blob/master/.docs/EasierClass_login.jpeg)
 
 # Calendario
-![Calendario](https://github.com/magnoazneto/easierclass/blob/master/files/EasierClass_Calendario.jpeg)
+![Calendario](https://github.com/magnoazneto/easierclass/blob/master/.docs/EasierClass_Calendario.jpeg)
 
 # Nova postagem
-![Nova Postagem](https://github.com/magnoazneto/easierclass/blob/master/files/EasierClass_nova_postagem.jpeg)
+![Nova Postagem](https://github.com/magnoazneto/easierclass/blob/master/.docs/EasierClass_nova_postagem.jpeg)
 
 # Post
-![Post](https://github.com/magnoazneto/easierclass/blob/master/files/EasierClass_post.jpeg)
+![Post](https://github.com/magnoazneto/easierclass/blob/master/.docs/EasierClass_post.jpeg)
 
 # Salas - visão professor
-![Visão Professor](https://github.com/magnoazneto/easierclass/blob/master/files/EasierClass_prof_salas.jpeg)
+![Visão Professor](https://github.com/magnoazneto/easierclass/blob/master/.docs/EasierClass_prof_salas.jpeg)
 
 # Salas - visão aluno
-![Visão Aluno](https://github.com/magnoazneto/easierclass/blob/master/files/EasierClass_alunos_salas.jpeg)
+![Visão Aluno](https://github.com/magnoazneto/easierclass/blob/master/.docs/EasierClass_alunos_salas.jpeg)
 
 # Timeline Aluno
-![Timeline Aluno](https://github.com/magnoazneto/easierclass/blob/master/files/EasierClass_timeline.jpeg)
+![Timeline Aluno](https://github.com/magnoazneto/easierclass/blob/master/.docs/EasierClass_timeline.jpeg)
 
 # Timeline Professor
-![Timeline Professor](https://github.com/magnoazneto/easierclass/blob/master/files/EasierClass_timeline.jpeg)
+![Timeline Professor](https://github.com/magnoazneto/easierclass/blob/master/.docs/EasierClass_timeline.jpeg)
 
 ## Referências
 - FREIRE, C. D. C. (2015). Gamificaçao e ead: Importância e possibilidades para uma educaçao com foco no aluno. Trabalho de Final de Curso. Instituto de Matemática e Estatıstica. LANTE–Laboratório de Novas Tecnologias de Ensino. Universidade Federal Fluminense (RJ).
